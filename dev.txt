@@ -1,4 +1,7 @@
 sdfafda
+<<<<<<< HEAD
 
 
-sdfadf
+=======
+asdfadfg
+>>>>>>> 596f1a4978ec8243b87fde11868bc3162801038a
