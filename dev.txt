@@ -6,3 +6,8 @@ asdfkaf;a
 asdfadfg
 >>>>>>> 596f1a4978ec8243b87fde11868bc3162801038a
 asdfasdf
+
+
+
+
+this is a total new line
