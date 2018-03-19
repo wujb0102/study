@@ -9,5 +9,8 @@ asdfasdf
 
 
 
+<<<<<<< HEAD
 
 this is a total new line
+=======
+>>>>>>> f939fbaa9cfba2f57ec943773680a1beed4f6323
